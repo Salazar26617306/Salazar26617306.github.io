@@ -13,7 +13,7 @@ Join me on my journey down the rabbit hole of the future of technology and digit
 - Read my published book of [crypto jokes][crypto_jokes]
 
 <!-- REFERENCES -->
-[alberto_img]: assets/img/alberto.png =100x "Alberto's portrait image"
+[alberto_img]: assets/img/alberto250.png "Alberto's portrait image"
 [alberto_twitter]: https://twitter.com/Salazar26617306 "Alberto's twitter profile"
 [alberto_facebook]: https://web.facebook.com/Salazar26617306 "Alberto's facebook page"
 [crypto_jokes]: https://coin-to.win/jokes/ "A dedicated page on my crypto jokes book"
