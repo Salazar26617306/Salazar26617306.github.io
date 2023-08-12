@@ -1,9 +1,11 @@
 ## Here are instructions for the modernist theme:
 ## https://github.com/pages-themes/modernist
 ## remote_theme: pages-themes/modernist@v0.2.0
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-title: Alberto Salazar
+#remote_theme: pages-themes/minimal@v0.2.0
+#plugins:
+#- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: Salazar26617306's home
+logo: /assets/img/logo.png
 description: I am an avid writer tracking latest crypto & tech trends. Focused on futuristic stuff, AR, VR, CG and innovations at intersection of finance, lifestyle & emerging tech.
 show_downloads: false
+theme: jekyll-theme-minimal
