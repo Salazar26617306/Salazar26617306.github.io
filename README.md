@@ -2,7 +2,7 @@
 
 An avid writer and futurist following the latest trends and innovations in cryptocurrency, augmented reality, virtual reality, computer graphics and beyond.
 
-[![Alberto's portrait image][alberto_img]](#top)
+[![Alberto's portrait image][alberto_img]{width=100}](#top)
 
 As an early adopter and enthusiast of cutting-edge technologies that are reshaping finance, lifestyle, and society, I offer my unique perspective on the exciting developments happening at the intersection of these fields. From Blockchain and DeFi to VR / AR and the Metaverse to AI and generative art, I explore the ideas and spaces that will define the future.
 
