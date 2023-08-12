@@ -12,7 +12,7 @@ Join me on my journey down the rabbit hole of the future of technology and digit
 - Connect with me on [Facebook][alberto_facebook]
 - Read my published book of [crypto jokes][crypto_jokes]
 
-<a class="twitter-timeline" data-lang="fr" data-height="400" data-dnt="true" href="https://twitter.com/Salazar26617306?ref_src=twsrc%5Etfw">Tweets by Alberto</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-lang="en" data-height="800" href="https://twitter.com/Salazar26617306?ref_src=twsrc%5Etfw">Tweets by Salazar26617306</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!-- REFERENCES -->
 [alberto_img]: assets/img/alberto.png "Alberto's portrait image"
