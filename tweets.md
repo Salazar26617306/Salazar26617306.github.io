@@ -13,6 +13,7 @@ Hello
 <video src="https://drive.google.com/file/d/1BdbJvnUjJoM96PTuUuWmZpSGQC1_6cIF" muted loop playsinline></video>
 <img src="https://drive.google.com/file/d/1INr3VKu1XgOhyiQcCn1P825eoIRu8X03" slot="paused-overlay" />
 </hover-video-player>
+</p>
 
 
 ### [Motion Capture Innovation in VR](https://twitter.com/Salazar26617306/status/1678061937270169603)
