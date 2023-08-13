@@ -4,6 +4,8 @@ layout: video
 
 ## Testing video tweets
 
+### Motion Capture Innovation in VR
+Did I mention I am a great tech fan? In particular curious about what is happening in the #VirtualReality #VR domain. I came across this cool motion cap approach, just using a VR headset and it's controllers. Awesome!
 <p>
 <hover-video-player>
 <video src="https://dms.licdn.com/playlist/vid/D4E05AQEnyZxpYJBVzQ/mp4-720p-30fp-crf28/0/1691912006255?e=1692540000&v=beta&t=ZGlEaTUZQtKrqjAnlkuaOsf1YjcktaUMgLYaD0BK-dc" muted loop playsinline></video>
