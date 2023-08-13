@@ -4,7 +4,7 @@ layout: default
 
 # Welcome to Alberto Salazar's Digital Playground
 
-An avid writer and futurist following the latest trends and innovations in cryptocurrency, augmented reality, virtual reality, computer graphics and beyond.
+An avid writer and futurist following the latest trends and innovations in cryptocurrency, augmented reality, virtual reality, computer graphics and beyond. You should have a look at [my micro-blog][mblog]! 
 
 [![Alberto's portrait image][alberto_img_s]][alberto_img]
 
@@ -33,3 +33,4 @@ Over time, I will add some [blog posts][blog] here as well, but for now I am mos
 [blog]: posts.html "Blog posts"
 [rcalvi]: https://rcalvi.medium.com/ "Roberto Calvi's medium page"
 [roberto]: roberto_calvi.html "About my friend Roberto Calvi"
+[mblog]: microblog.html "Alberto's Micro-blog"
