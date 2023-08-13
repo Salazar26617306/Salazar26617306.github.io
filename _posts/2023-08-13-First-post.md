@@ -10,7 +10,6 @@ tags:
 author: Alberto Salazar
 handle: "Salazar26617306"
 ---
-
 So here we go! I'm dipping my toes into the waters of GitHub Pages and starting to build this little corner of the internet.
 
 As the old saying goes, "The journey of a thousand bets begins with a single Git push." Along the way, there will be bumps, merge conflicts that need to be resolved, and UI, which still needs tweaking. But have no fear, dear reader! Because in the first moments of dealing with hex editors and switching between website generators, you should know that it's not syntactical beauty that motivates me.
