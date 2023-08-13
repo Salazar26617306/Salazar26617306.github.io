@@ -6,6 +6,15 @@ layout: video
 
 Still experimenting with a way of backing up certain contributions on the web on this site. Bear with me while I am experimenting. You can hover over the videos below to see them.
 
+### New one
+Hello
+<p>
+<hover-video-player>
+<video src="https://drive.google.com/file/d/1BdbJvnUjJoM96PTuUuWmZpSGQC1_6cIF" muted loop playsinline></video>
+<img src="https://drive.google.com/file/d/1INr3VKu1XgOhyiQcCn1P825eoIRu8X03" slot="paused-overlay" />
+</hover-video-player>
+
+
 ### [Motion Capture Innovation in VR](https://twitter.com/Salazar26617306/status/1678061937270169603)
 Did I mention I am a great tech fan? In particular curious about what is happening in the #VirtualReality #VR domain. I came across this cool motion cap approach, just using a VR headset and it's controllers. Awesome!
 <p>
