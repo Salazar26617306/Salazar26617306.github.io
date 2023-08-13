@@ -10,11 +10,15 @@ Still experimenting with a way of backing up certain contributions on the web on
 Hello
 <p>
 <hover-video-player>
-<video src="https://drive.google.com/file/d/1BdbJvnUjJoM96PTuUuWmZpSGQC1_6cIF/view?usp=sharing&dl=0" muted loop playsinline></video>
-<img src="https://drive.google.com/file/d/1INr3VKu1XgOhyiQcCn1P825eoIRu8X03/view?usp=sharing&dl=0" slot="paused-overlay" />
+<video src="https://drive.google.com/uc?export=view&id=1BdbJvnUjJoM96PTuUuWmZpSGQC1_6cIF" muted loop playsinline></video>
+<img src="https://drive.google.com/uc?export=view&id=1INr3VKu1XgOhyiQcCn1P825eoIRu8X03" slot="paused-overlay" />
 </hover-video-player>
 </p>
 
+<!--
+https://drive.google.com/uc?export=view&id=1Lee03zRlyq2ZS3DXqW-Gv6w4D_-6HIuP
+<img src="https://drive.google.com/file/d/1INr3VKu1XgOhyiQcCn1P825eoIRu8X03/view?usp=sharing&dl=0" slot="paused-overlay" />
+-->
 
 ### [Motion Capture Innovation in VR](https://twitter.com/Salazar26617306/status/1678061937270169603)
 Did I mention I am a great tech fan? In particular curious about what is happening in the #VirtualReality #VR domain. I came across this cool motion cap approach, just using a VR headset and it's controllers. Awesome!
