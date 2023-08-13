@@ -12,10 +12,7 @@ Join me on my journey down the rabbit hole of the future of technology and digit
 - Connect with me on [Facebook][alberto_facebook]
 - Read my published book of [crypto jokes][crypto_jokes]
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">halfin (@halfin) <a href="https://twitter.com/halfin/status/1110302988">https://twitter.com/halfin/status/1110302988</a></p>&mdash; halfin (@halfin) <a href="https://twitter.com/halfin/status/1110302988"></a></blockquote>
-<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<a class="twitter-timeline" data-lang="en" data-height="800" href="https://twitter.com/Salazar26617306?ref_src=twsrc%5Etfw">Tweets by Salazar26617306</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Over time, I will add some [blog posts][blog] here as well, but for now I am just discovering the Github pages platform.
 
 <!-- REFERENCES -->
 [alberto_img]: assets/img/alberto.png "Alberto's portrait image"
@@ -23,3 +20,4 @@ Join me on my journey down the rabbit hole of the future of technology and digit
 [alberto_twitter]: https://twitter.com/Salazar26617306 "Alberto's twitter profile"
 [alberto_facebook]: https://web.facebook.com/Salazar26617306 "Alberto's facebook page"
 [crypto_jokes]: https://coin-to.win/jokes/ "A dedicated page on my crypto jokes book"
+[blog]: posts.html "Blog posts"
