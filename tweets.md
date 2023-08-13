@@ -25,8 +25,8 @@ https://drive.google.com/uc?export=view&id=1Lee03zRlyq2ZS3DXqW-Gv6w4D_-6HIuP
 Did I mention I am a great tech fan? In particular curious about what is happening in the #VirtualReality #VR domain. I came across this cool motion cap approach, just using a VR headset and it's controllers. Awesome!
 <p>
 <hover-video-player>
-<video src="https://dms.licdn.com/playlist/vid/D4E05AQEnyZxpYJBVzQ/mp4-720p-30fp-crf28/0/1691912006255?e=1692540000&v=beta&t=ZGlEaTUZQtKrqjAnlkuaOsf1YjcktaUMgLYaD0BK-dc"       loop playsinline></video>
-<img src="https://media.licdn.com/dms/image/D4E05AQEnyZxpYJBVzQ/videocover-high/0/1691912002820?e=1692540000&v=beta&t=_uBEk-TIRHO8wcfmcSacZSR2GHOID_NieP9GA-OOd3Y" slot="paused-overlay" />
+<video src="https://drive.google.com/uc?export=view&id=1aA-qziZKICG3r-SxsWri6JtHEM8o2uzW"       loop playsinline></video>
+<img src="https://drive.google.com/uc?export=view&id=19xMQq2gTSFokkpLkETurFd4cBpfLBu0G" slot="paused-overlay" />
 </hover-video-player>
 </p>
 
