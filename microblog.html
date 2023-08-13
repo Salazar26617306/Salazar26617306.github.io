@@ -1,0 +1,27 @@
+---
+layout: default
+regenerate: true
+---
+
+<div class="content list h-feed">
+{% if site.posts.size == 0 %}
+  <h2>No post found</h2>
+{% else %}
+{% for post in site.posts limit:25 %}
+  <div class="list-item h-entry">
+    <div class="list-post-date">
+      <a href="{{ site.baseurl }}{{ post.url }}" class="u-url"><time class="dt-published" datetime="{{ post.date }}">{{ post.date | date_to_string }}</time></a>
+    </div>
+	{% if post.microblog == false %}
+		<h3 class="home-title">{{ post.title }}</h1>
+	{% endif %}
+    <div class="content post e-content">
+      {{ post.content }}
+    </div>
+  </div>
+{% endfor %}
+{% endif %}
+<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
+
