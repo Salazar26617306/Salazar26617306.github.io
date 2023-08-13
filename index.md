@@ -16,7 +16,7 @@ Join me on my journey down the rabbit hole of the future of technology and digit
 - Connect with me on [Facebook][alberto_facebook]
 - Read my published book of [crypto jokes][crypto_jokes]
 
-While my site is getting started, you can explore some great perspectives on technology and futurism from my friend Roberto Calvi over on [his Medium page][rcalvi].
+While my site is getting started, you can explore some great perspectives on technology and futurism from [my friend Roberto Calvi][roberto] over on [his Medium page][rcalvi].
 
 Over time, I will add some [blog posts][blog] here as well, but for now I am mostly just discovering the Github pages platform. 
 
@@ -32,3 +32,4 @@ Over time, I will add some [blog posts][blog] here as well, but for now I am mos
 [crypto_jokes]: https://coin-to.win/jokes/ "A dedicated page on my crypto jokes book"
 [blog]: posts.html "Blog posts"
 [rcalvi]: https://rcalvi.medium.com/ "Roberto Calvi's medium page"
+[roberto]: roberto_calvi.html "About my friend Roberto Calvi"
