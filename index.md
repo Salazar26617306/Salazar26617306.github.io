@@ -16,7 +16,7 @@ Join me on my journey down the rabbit hole of the future of technology and digit
 - Connect with me on [Facebook][alberto_facebook]
 - Read my published book of [crypto jokes][crypto_jokes]
 
-Over time, I will add some [blog posts][blog] here as well, but for now I am just discovering the Github pages platform.
+Over time, I will add some [blog posts][blog] here as well, but for now I am just discovering the Github pages platform. 
 
 <!--
 [Link to another page](./another-page.html).
