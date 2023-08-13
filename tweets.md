@@ -10,8 +10,8 @@ Still experimenting with a way of backing up certain contributions on the web on
 Hello
 <p>
 <hover-video-player>
-<video src="https://drive.google.com/file/d/1BdbJvnUjJoM96PTuUuWmZpSGQC1_6cIF" muted loop playsinline></video>
-<img src="https://drive.google.com/file/d/1INr3VKu1XgOhyiQcCn1P825eoIRu8X03" slot="paused-overlay" />
+<video src="https://drive.google.com/file/d/1BdbJvnUjJoM96PTuUuWmZpSGQC1_6cIF/view?usp=sharing" muted loop playsinline></video>
+<img src="https://drive.google.com/file/d/1INr3VKu1XgOhyiQcCn1P825eoIRu8X03/view?usp=sharing" slot="paused-overlay" />
 </hover-video-player>
 </p>
 
