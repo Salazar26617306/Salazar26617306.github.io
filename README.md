@@ -12,6 +12,9 @@ Join me on my journey down the rabbit hole of the future of technology and digit
 - Connect with me on [Facebook][alberto_facebook]
 - Read my published book of [crypto jokes][crypto_jokes]
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">halfin (@halfin) <a href="https://twitter.com/halfin/status/1110302988">https://twitter.com/halfin/status/1110302988</a></p>&mdash; halfin (@halfin) <a href="https://twitter.com/halfin/status/1110302988"></a></blockquote>
+<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <a class="twitter-timeline" data-lang="en" data-height="800" href="https://twitter.com/Salazar26617306?ref_src=twsrc%5Etfw">Tweets by Salazar26617306</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!-- REFERENCES -->
