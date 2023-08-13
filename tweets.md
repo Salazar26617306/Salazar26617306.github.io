@@ -2,7 +2,9 @@
 layout: video
 ---
 
-## Testing video tweets
+## Selected tweets or similar posts
+
+Still experimenting with a way of backing up certain contributions on the web on this site. Bear with me while I am experimenting. You can hover over the videos below to see them.
 
 ### Motion Capture Innovation in VR
 Did I mention I am a great tech fan? In particular curious about what is happening in the #VirtualReality #VR domain. I came across this cool motion cap approach, just using a VR headset and it's controllers. Awesome!
