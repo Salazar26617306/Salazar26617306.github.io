@@ -18,7 +18,9 @@ Join me on my journey down the rabbit hole of the future of technology and digit
 
 Over time, I will add some [blog posts][blog] here as well, but for now I am just discovering the Github pages platform.
 
+<!--
 [Link to another page](./another-page.html).
+-->
 
 <!-- REFERENCES -->
 [alberto_img]: assets/img/alberto.png "Alberto's portrait image"
