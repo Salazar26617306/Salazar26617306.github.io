@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My first post on this site"
+title:  "My first post: Welcome to My Digital Playground!"
 categories: general
 comments: true
 description: First-Post
