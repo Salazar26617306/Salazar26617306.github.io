@@ -18,5 +18,6 @@ theme: jekyll-theme-minimal
 ## https://github.com/pages-themes/modernist
 ## remote_theme: pages-themes/modernist@v0.2.0
 #remote_theme: pages-themes/minimal@v0.2.0
-#plugins:
+plugins:
+  - _plugins/twitter_hashtag_filter.rb
 #- jekyll-remote-theme # add this line to the plugins list if you already have one

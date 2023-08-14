@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: vpost
 categories: vr
 comments: true
 title: <a href="https://twitter.com/Salazar26617306/status/1678061937270169603">Motion Capture Innovation in VR</a>
